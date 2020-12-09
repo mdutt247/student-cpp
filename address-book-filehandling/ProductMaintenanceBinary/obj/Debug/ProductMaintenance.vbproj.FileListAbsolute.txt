@@ -1,0 +1,28 @@
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 22\ProductMaintenanceBinary\obj\Debug\ProductMaintenance.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 22\ProductMaintenanceBinary\obj\Debug\ProductMaintenance.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 22\ProductMaintenanceBinary\obj\Debug\ProductMaintenance.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 22\ProductMaintenanceBinary\bin\Debug\ProductMaintenance.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 22\ProductMaintenanceBinary\bin\Debug\ProductMaintenance.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 22\ProductMaintenanceBinary\bin\Debug\ProductMaintenance.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 22\ProductMaintenanceBinary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 22\ProductMaintenanceBinary\obj\Debug\ProductMaintenance.frmNewProduct.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 22\ProductMaintenanceBinary\obj\Debug\ProductMaintenance.frmProductMaint.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 22\ProductMaintenanceBinary\obj\Debug\ProductMaintenance.Resources.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 22\ProductMaintenanceBinary\obj\Debug\ProductMaintenance.vbproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 21\ProductMaintenanceBinary\obj\Debug\ProductMaintenance.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 21\ProductMaintenanceBinary\obj\Debug\ProductMaintenance.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008 applications\Chapter 21\ProductMaintenanceBinary\obj\Debug\ProductMaintenance.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 21\ProductMaintenanceBinary\obj\Debug\ProductMaintenance.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 21\ProductMaintenanceBinary\obj\Debug\ProductMaintenance.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 21\ProductMaintenanceBinary\obj\Debug\ProductMaintenance.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 21\ProductMaintenanceBinary\bin\Debug\ProductMaintenance.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 21\ProductMaintenanceBinary\bin\Debug\ProductMaintenance.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 21\ProductMaintenanceBinary\bin\Debug\ProductMaintenance.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 21\ProductMaintenanceBinary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 21\ProductMaintenanceBinary\obj\Debug\ProductMaintenance.frmNewProduct.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 21\ProductMaintenanceBinary\obj\Debug\ProductMaintenance.frmProductMaint.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 21\ProductMaintenanceBinary\obj\Debug\ProductMaintenance.Resources.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Book applications\Chapter 21\ProductMaintenanceBinary\obj\Debug\ProductMaintenance.vbproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Chapter 21\ProductMaintenanceBinary\obj\Debug\ProductMaintenance.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Chapter 21\ProductMaintenanceBinary\obj\Debug\ProductMaintenance.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Chapter 21\ProductMaintenanceBinary\obj\Debug\ProductMaintenance.pdb

@@ -1,0 +1,51 @@
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Chapter 21\ProductMaintenanceText\bin\Release\ProductMaintenance.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Chapter 21\ProductMaintenanceText\bin\Release\ProductMaintenance.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Chapter 21\ProductMaintenanceText\bin\Release\ProductMaintenance.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Chapter 21\ProductMaintenanceText\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Chapter 21\ProductMaintenanceText\obj\Release\ProductMaintenance.frmNewProduct.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Chapter 21\ProductMaintenanceText\obj\Release\ProductMaintenance.frmProductMaint.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Chapter 21\ProductMaintenanceText\obj\Release\ProductMaintenance.Resources.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Chapter 21\ProductMaintenanceText\obj\Release\ProductMaintenance.vbproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Chapter 21\ProductMaintenanceText\obj\Release\ProductMaintenance.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Chapter 21\ProductMaintenanceText\obj\Release\ProductMaintenance.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Chapter 21\ProductMaintenanceText\obj\Release\ProductMaintenance.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\obj\Release\ProductMaintenance.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\obj\Release\ProductMaintenance.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\obj\Release\ProductMaintenance.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\bin\Release\ProductMaintenance.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\bin\Release\ProductMaintenance.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\bin\Release\ProductMaintenance.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\obj\Release\ProductMaintenance.frmNewProduct.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\obj\Release\ProductMaintenance.frmProductMaint.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\obj\Release\ProductMaintenance.Resources.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\anne\My Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\obj\Release\ProductMaintenance.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\obj\Release\ProductMaintenance.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\obj\Release\ProductMaintenance.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\bin\Release\ProductMaintenance.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\bin\Release\ProductMaintenance.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\bin\Release\ProductMaintenance.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\obj\Release\ProductMaintenance.frmNewProduct.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\obj\Release\ProductMaintenance.frmProductMaint.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\obj\Release\ProductMaintenance.Resources.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Book applications\Chapter 21\ProductMaintenanceText\obj\Release\GenerateResource.write.1.tlog
+C:\Users\md\Documents\Visual Studio 2010\Projects\address-book-filehandling\ProductMaintenanceText\obj\Release\ProductMaintenance.exe
+C:\Users\md\Documents\Visual Studio 2010\Projects\address-book-filehandling\ProductMaintenanceText\obj\Release\ProductMaintenance.xml
+C:\Users\md\Documents\Visual Studio 2010\Projects\address-book-filehandling\ProductMaintenanceText\obj\Release\ProductMaintenance.pdb
+C:\Users\md\Documents\Visual Studio 2010\Projects\address-book-filehandling\ProductMaintenanceText\bin\Release\ProductMaintenance.exe
+C:\Users\md\Documents\Visual Studio 2010\Projects\address-book-filehandling\ProductMaintenanceText\bin\Release\ProductMaintenance.pdb
+C:\Users\md\Documents\Visual Studio 2010\Projects\address-book-filehandling\ProductMaintenanceText\bin\Release\ProductMaintenance.xml
+C:\Users\md\Documents\Visual Studio 2010\Projects\address-book-filehandling\ProductMaintenanceText\obj\Release\ResolveAssemblyReference.cache
+C:\Users\md\Documents\Visual Studio 2010\Projects\address-book-filehandling\ProductMaintenanceText\obj\Release\ProductMaintenance.frmNewProduct.resources
+C:\Users\md\Documents\Visual Studio 2010\Projects\address-book-filehandling\ProductMaintenanceText\obj\Release\ProductMaintenance.frmProductMaint.resources
+C:\Users\md\Documents\Visual Studio 2010\Projects\address-book-filehandling\ProductMaintenanceText\obj\Release\ProductMaintenance.Resources.resources
+C:\Users\md\Documents\Visual Studio 2010\Projects\address-book-filehandling\ProductMaintenanceText\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\md\Documents\Visual Studio 2010\Projects\address-book-filehandling\ProductMaintenanceText\obj\Release\GenerateResource.read.1.tlog
+C:\Users\md\Documents\Visual Studio 2010\Projects\address-book-filehandling\ProductMaintenanceText\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\md\Documents\Visual Studio 2010\Projects\address-book-filehandling\ProductMaintenanceText\obj\Release\GenerateResource.write.1.tlog
